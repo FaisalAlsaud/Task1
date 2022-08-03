@@ -29,7 +29,8 @@ Here we will use tinkercad, but feel free to
 use any other softwares or online platforms.
 
 Step. (1): Open Tinkercad: Then, click on
-3D Designs, then Create new design
+3D Designs, then Create new design:
+![](https://user-images.githubusercontent.com/85820553/128875021-a77bdc4f-e179-4016-bd63-c11ee568c168.png)
 
 Step. (2): An empty woekspace will be
 shown when you open new design
