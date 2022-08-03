@@ -33,7 +33,8 @@ Step. (1): Open Tinkercad: Then, click on
 ![](https://user-images.githubusercontent.com/85820553/128875021-a77bdc4f-e179-4016-bd63-c11ee568c168.png)
 
 Step. (2): An empty woekspace will be
-shown when you open new design
+shown when you open new design:
+![](https://user-images.githubusercontent.com/85820553/128876603-6f7d9c77-0420-43b4-9ca0-c1fa091a859c.png)
 
 Then, click on Import and upload the parts
 of robot arms as (.st) format
